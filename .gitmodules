@@ -1,0 +1,3 @@
+[submodule "ETGMod.ExampleAPI"]
+	path = ETGMod.ExampleAPI
+	url = https://github.com/ModTheGungeon/ETGMod.ExampleAPI.git
