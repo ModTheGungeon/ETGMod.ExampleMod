@@ -5,7 +5,7 @@
 
 This repository is a commented example game mod using ExampleAPI for the game "Enter the Gungeon."
 
-As it contains the [ExampleAPI](https://github.com/ModTheGungeon/ETGMod.ExampleAPI) as submodule, *clone recursively!*
+As it contains the [ExampleAPI](https://github.com/ModTheGungeon/ETGMod.ExampleAPI) as submodule, *clone recursively!*  
 
 It replaces the default ExampleAPI hook with custom ones.
 
